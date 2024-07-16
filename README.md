@@ -38,4 +38,4 @@ Charts Requirement:
 
 Here is the end product:
 
-![Screenshot 2024-07-08 124646](https://github.com/user-attachments/assets/ebcae0c0-2819-4677-8fc9-60423f17e33c)
+![Screenshot 2024-07-16 105908](https://github.com/user-attachments/assets/28bb5450-f0ca-4186-9f8e-0d5cb74fa2f0)
