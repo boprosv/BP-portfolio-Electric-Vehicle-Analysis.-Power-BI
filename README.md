@@ -1,5 +1,5 @@
 # BP-portfolio-Electric-Vehicle-Analysis.-Power-BI
-In this project, I built a fully interactive dashboard with Power BI Desktop for presentation and further analysis.I have  The data was imported in CSV format and contained a little over 150K rows... here is a glimpse:
+In this project, I built a fully interactive dashboard with Power BI Desktop for presentation and further analysis.I have it in .pbix format, please download it RAW and check it out! The data was imported in CSV format and contained a little over 150K rows... here is a glimpse:
 
 
 ![Screenshot 2024-07-15 143948](https://github.com/user-attachments/assets/c3540914-751d-4fff-bd39-37ccf3e75dd0)
