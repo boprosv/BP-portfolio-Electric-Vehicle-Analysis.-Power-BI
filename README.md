@@ -35,3 +35,7 @@ Charts Requirement:
    * Visualization: Tree map
    * Description: Highlight the top 10 electric vehicle models based on total number of vehicles, offering insights into consumer preferences and popular models in 
      the market.
+
+Here is the end product:
+
+![Screenshot 2024-07-08 124646](https://github.com/user-attachments/assets/ebcae0c0-2819-4677-8fc9-60423f17e33c)
